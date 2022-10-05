@@ -301,7 +301,7 @@ int main()
         "\n\t2 - Quadratic congruent method.\n\t3 - Fibonacci numbers.\n\t4 - Inverse congruent sequence"
         "\n\t5 - Method of association.\n\t6 - The rule of \"3 sigma\".\n\t7 - The method of polar coordinates."
         "\n\t8 - Method of correlations. \n\t9 - The logarithm method for generating an indicative distribution."
-        "\n\t10 - Ahrens' method for generating a gamma distribution of order a > 1."
+        "\n\t10 - Ahrens' method for generating a gamma"
         "\nEnter number of method which you want to try:" << endl;
     int vvod = 0;
     cin >> vvod;
